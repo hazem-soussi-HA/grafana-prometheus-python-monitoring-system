@@ -1,7 +1,6 @@
 "# grafana-prometheus-python-monitoring-system" 
 "# grafana-prometheus-python-monitoring-system" 
-
----
+**********************************************
 
 # **Grafana-Prometheus-Python-Monitoring-System**
 
@@ -31,6 +30,10 @@ To get started, follow these steps:
 - Integrating additional monitoring sources (e.g., databases, applications).
 - Adding custom alerts and automating responses.
 - Enhancing the Python scripts to support a wider range of configurations.
+
+## **Copyright**
+
+© 2024 Hazem Soussi.IT All rights reserved.
 
 ---
 
